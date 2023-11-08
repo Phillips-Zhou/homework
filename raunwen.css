@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{ font-family:boombox;
+            src:url(font/BOOMBOX.TTF);}
+@font-face{font-family:fzjzjw;
+            src:url(font/FZJZJW.TTF);}
+@font-face{font-family:ltch;
+            src:url(font/LTCH.TTF);}
+@font-face{font-family:onyx;
+            src:url(font/ONYX.TTF);}
+@font-face{font-family:rock;
+             src:url(font/ROCK.TTF);}
+@font-face{font-family:tccm;
+            src:url(font/TCCM____.TTF);}
+h2 strong.one{font-family:onyx; font-size:48px; color:#333;}
+h2 strong.two{font-family:tccm; font-size:58px; color:#4c9372;}
+p #id1{font-family:boom; font-size:24px; color:#333; font-weight:bold; font-style:italic;}
+p #id2{font-family:boom; font-size:36px; font-weight:bold; color:#333;}
+p strong.three{font-family:boom; font-size:60px;}
+p em.four{font-family:ltch; font-size:50px;  color:#999;}
+p #id3{font-family:"微软雅黑";font-size:36px;}
+p em.five{font-family:"微软雅黑";color:#CCC;font-size:14px;}
